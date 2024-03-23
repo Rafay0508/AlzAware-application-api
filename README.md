@@ -37,12 +37,12 @@ pip install -r requirements.txt
 
 1. Download the pre-trained model file `updated_model.h5` from the following Google Drive link: [updated_model.h5](https://drive.google.com/file/d/1BjDFxw-qEmKY61SuENHsEpoTzLaYvYsy/view?usp=drive_link).
 
-2. Place the downloaded `updated_model.h5` file in the `models` directory of the project.
+2. Place the downloaded `updated_model.h5` file in the main folder/directory of the project.
 
 3. Start the Flask web server:
 
 ```bash
-python app.py
+python main.py
 ```
 
 4. The server will start running locally. Open your web browser and go to [http://localhost:5000](http://localhost:5000) to access the application.
